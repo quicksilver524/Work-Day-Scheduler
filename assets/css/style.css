@@ -61,6 +61,7 @@ textarea{
   font-size: 30px;
   transition: all .3s ease-in-out;
   color: #000000;
+  margin: 5px 5px 10px 5px;
 }
 
 .past {
@@ -118,7 +119,12 @@ textarea{
   }
   .container {
     display: contents;
-    padding-bottom: 50px;
     justify-content: center;
+  }
+  .row:hover {
+    display: flex;
+    font-size: 25px;
+    margin: 5px 5px 20px 5px;
+
   }
 }
