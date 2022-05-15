@@ -16,8 +16,8 @@ Github repo source [https://github.com/quicksilver524/Work-Day-Scheduler]
            right section. I finally made the row enlarge to help with reading and 
            reduce errors with use. 
 
-  Work-Day-Scheduler Webpage:  ![Picture of webpage 1](./assets/images/ss1.png)
+  # Work-Day-Scheduler Webpage:  ![Picture of webpage 1](./assets/images/ss1.png)
   
-  Scalable and interactive buttons Webpage:  ![Picture of webpage 2](./assets/images/ss2.png)
+  # Scalable and interactive buttons Webpage:  ![Picture of webpage 2](./assets/images/ss2.png)
  
-  Interactive buttons in the schedule and save button Webpage:  ![Picture of webpage 3](./assets/images/ss3.png)
+  # Interactive buttons in the schedule and save button Webpage:  ![Picture of webpage 3](./assets/images/ss3.png)
