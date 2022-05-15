@@ -108,3 +108,17 @@ textarea{
   font-size: 30px;
   transition: all .3s ease-in-out;
 }
+
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (max-width: 980px) {
+  .body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .container {
+    display: contents;
+    padding-bottom: 50px;
+    justify-content: center;
+  }
+}
